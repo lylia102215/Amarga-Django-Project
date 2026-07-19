@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# dotenv environment variables file
+.env
+.env.dev
+
+# Django project settings
+*.local.py
+db.sqlite3
+db.sqlite3-journal
